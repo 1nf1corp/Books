@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head>
 	<meta name="msvalidate.01" content="095D4FA2E4824BED6B22102FB8CE263E" />
